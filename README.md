@@ -11,15 +11,15 @@ this project analyses DB called `news`
 
 ## Setup
  1. Install python
-    . https://www.python.org/downloads/
+    - https://www.python.org/downloads/
  2. Download flask Module
-    . ```pip install flask```
+    - `pip install flask```
  3. Download PostgreSQL DB
-    . https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+    - https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
  4. Download psycopg2 Module (DB-API)
-    . ```pip install  psycopg2```
+    - ```pip install  psycopg2```
  5. Download data from here
-    . [News Database](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
+    - [News Database](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 
 ### To Run
 to be able using `psql` command through your terminal on linux or git bash on windows
