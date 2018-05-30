@@ -13,7 +13,7 @@ this project analyses DB called `news`
  1. Install python
     - https://www.python.org/downloads/
  2. Download flask Module
-    - `pip install flask```
+    - ```pip install flask```
  3. Download PostgreSQL DB
     - https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
  4. Download psycopg2 Module (DB-API)
