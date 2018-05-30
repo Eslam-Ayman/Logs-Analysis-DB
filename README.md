@@ -18,7 +18,9 @@ this project analyses DB called `news`
     - https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
  4. Download psycopg2 Module (DB-API)
     - ```pip install  psycopg2```
- 5. Download data from here
+ 5. Download oauth2client Module
+    - ```pip install oauth2client```
+ 6. Download data from here
     - [News Database](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 
 ### To Run
